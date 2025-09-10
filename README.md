@@ -20,5 +20,5 @@
 <div id="tech" align="left">
   <h3>🛠️ Minhas Ferramentas e Tecnologias</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,docker,maven,hibernate,postgres,mysql,postman,linux,git,gitlab" alt="Ferramentas e Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,c,docker,maven,hibernate,postgres,mysql,postman,linux,git,gitlab" alt="Ferramentas e Tecnologias"/>
  </p>
