@@ -7,7 +7,7 @@
 <div id="about" align="left">
   <h3>📄 Sobre Mim</h3>
   <p>
-    Sou um Desenvolvedor Back-end e estudante de Ciência da Computação em fase de conclusão. Desde meu primeiro contato com Programação Orientada a Objetos, desenvolvi uma grande paixão pelo ecossistema Java, direcionando meus estudos e projetos para a construção de soluções robustas e escaláveis. Meu objetivo é iniciar minha carreira em um ambiente desafiador onde eu possa contribuir com meu conhecimento, aprender com profissionais experientes e evoluir constantemente.
+    Sou um Desenvolvedor Back-end e estudante de Ciência da Computação em fase de conclusão. Desde meu primeiro contato com Programação Orientada a Objetos, desenvolvi uma grande paixão pelo ecossistema Java, direcionando meus estudos e projetos para a construção de soluções robustas e escaláveis.
   </p>
 </div>
 
