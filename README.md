@@ -22,3 +22,11 @@
   <p>
     <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,angular,python,c,docker,hibernate,postgres,mysql,postman,linux,git,gitlab,kafka" alt="Ferramentas e Tecnologias"/>
  </p>
+</div>
+
+<div id="stats" align="left">
+  <h3>Most Used Languages</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-plaza&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages"/>
+  </p>
+</div>
